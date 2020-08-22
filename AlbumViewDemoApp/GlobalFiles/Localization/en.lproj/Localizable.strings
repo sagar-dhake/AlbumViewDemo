@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  AlbumViewDemoApp
+
+  Created by Sagar Dhake on 22/08/20.
+  Copyright © 2020 Sagar Dhake. All rights reserved.
+*/
+
+"No_Internet_Alert" = "Please connect to internet first.";
+
+"Album_List" = "Album List";
+
+"Please_Wait" = "Please wait...";
