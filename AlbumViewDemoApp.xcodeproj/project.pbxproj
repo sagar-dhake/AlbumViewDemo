@@ -596,7 +596,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = /Users/sagar/Downloads/AlbumViewDemo/AlbumViewDemoApp/GlobalFiles/Info.plist;
+				INFOPLIST_FILE = AlbumViewDemoApp/GlobalFiles/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -615,7 +615,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = /Users/sagar/Downloads/AlbumViewDemo/AlbumViewDemoApp/GlobalFiles/Info.plist;
+				INFOPLIST_FILE = AlbumViewDemoApp/GlobalFiles/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
